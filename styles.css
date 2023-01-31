@@ -82,6 +82,19 @@ a:visited {
   box-shadow: 10px 10px #737ac4;
 }
 
+.about-me {
+  height: 720px;
+}
+
+.about-me-h2 {
+  font-size: 4em;
+}
+
+.container .about-me-text {
+  width: 100%;
+  font-size: 3em;
+  padding: 50px;
+}
 .cards .container {
   display: flex;
   padding: 15px;
