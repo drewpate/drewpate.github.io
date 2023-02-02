@@ -209,4 +209,12 @@ a:visited {
   .cards .container {
     display: block;
   }
+
+  .about-me-text {
+    font-size: 2em;
+  }
+
+  .container .footer-text {
+    font-size: 2em;
+  }
 }
