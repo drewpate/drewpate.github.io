@@ -104,7 +104,7 @@ a:visited {
   padding: 5px;
 }
 
-.about-me-text {
+.container .about-me-text {
   width: 100%;
   font-size: 3em;
   padding: 50px;
@@ -212,7 +212,7 @@ a:visited {
   cursor: pointer;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 992px) {
   .cards .container {
     display: block;
   }
