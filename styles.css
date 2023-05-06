@@ -217,8 +217,8 @@ a:visited {
     display: block;
   }
 
-  .about-me-text {
-    font-size: 1em;
+  .container .about-me-text {
+    font-size: 2em;
   }
 
   .container .footer-text {
