@@ -273,4 +273,11 @@ a:visited {
   .container .footer-text {
     font-size: 2em;
   }
+  .shadow-box {
+    width: 250px;
+  }
+
+  .typed-out {
+    font-size: 1rem;
+  }
 }
