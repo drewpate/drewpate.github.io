@@ -195,7 +195,7 @@ a:visited {
   display: flex;
   height: 25px;
   width: 25px;
-  border: 2px solid midnightblue;
+  border: 2px solid #191970;
   align-items: center;
   justify-content: center;
   margin-right: 10px;
@@ -213,7 +213,17 @@ a:visited {
   height: 720px;
 }
 
+.icon-container {
+  display: flex;
+  justify-content: center;
+  height: 100px;
+}
 
+.footer-icon {
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+}
 .contact-h2 {
   font-size: 4em;
 }
